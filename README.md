@@ -1,4 +1,4 @@
-# Cplusplus-libraries
+# C/Cplusplus-libraries
 
 值得学习的C语言开源项目
 - 1. Webbench
@@ -162,16 +162,16 @@ ZZIPlib：提供ZIP归档的读权限。
 并发性
 并发执行和多线程
 
-Boost.Compute ：用于OpenCL的C++GPU计算库
-Bolt ：针对GPU进行优化的C++模板库
-C++React ：用于C++11的反应性编程库
-Intel TBB ：Intel线程构件块
-Libclsph：基于OpenCL的GPU加速SPH流体仿真库
-OpenCL ：并行编程的异构系统的开放标准
-OpenMP：OpenMP API
-Thrust ：类似于C++标准模板库的并行算法库
-HPX ：用于任何规模的并行和分布式应用程序的通用C++运行时系统
-VexCL ：用于OpenCL/CUDA 的C++向量表达式模板库。
+- Boost.Compute ：用于OpenCL的C++GPU计算库
+- Bolt ：针对GPU进行优化的C++模板库
+- C++React ：用于C++11的反应性编程库
+- Intel TBB ：Intel线程构件块
+- Libclsph：基于OpenCL的GPU加速SPH流体仿真库
+- OpenCL ：并行编程的异构系统的开放标准
+- OpenMP：OpenMP API
+- Thrust ：类似于C++标准模板库的并行算法库
+- HPX ：用于任何规模的并行和分布式应用程序的通用C++运行时系统
+- VexCL ：用于OpenCL/CUDA 的C++向量表达式模板库。
  
 
 容器
